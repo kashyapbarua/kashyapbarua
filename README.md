@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi! I'm Kashyap 👋
+
+I am an Analytics Professional with more than 3 years of industry experience in facilitating analytical capabilities and data driven decision making for my clients and organizations.
+
+My daily tech stack include Python, R, PySpark, SQL and many other data wrangling tools and techniques.
+I am also great with dashboarding tools like Tableau, Power BI, Mixpanel, Metabase and many others.
+
+### Find more about me
+
+🌏 www.kashyapbarua.com
+
+📧 kashyapbarua@gmail.com
+
+💻 https://in.linkedin.com/in/kashyap-barua-4ab640b6
 
 <!--
 **kashyapbarua/kashyapbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
