@@ -1,5 +1,7 @@
 ### Hi! I'm Kashyap 👋
 
+![image](https://user-images.githubusercontent.com/11890123/121801868-3a768900-cc57-11eb-82b1-06339514e36e.png)
+
 I am an Analytics Professional with more than 3 years of industry experience in facilitating analytical capabilities and data driven decision making for my clients and organizations.
 
 My daily tech stack include Python, R, PySpark, SQL and many other data wrangling tools and techniques.
