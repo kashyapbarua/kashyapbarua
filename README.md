@@ -13,7 +13,7 @@ I am also great with dashboarding tools like Tableau, Power BI, Mixpanel, Metaba
 
 📧 kashyapbarua@gmail.com
 
-💻 https://in.linkedin.com/in/kashyap-barua-4ab640b6
+💻 https://in.linkedin.com/in/kashyapbarua
 
 <!--
 **kashyapbarua/kashyapbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
